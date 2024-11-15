@@ -1,0 +1,4 @@
+networkMonitorScript.py
+/venv/
+/src/build/
+/src/dist/
